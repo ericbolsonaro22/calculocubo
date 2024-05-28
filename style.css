@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to right, rgb(72, 167, 245), rgb(43, 103, 231), #0039d6);
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+
+input, button{
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 16px;
+    padding: 8px;
+}
